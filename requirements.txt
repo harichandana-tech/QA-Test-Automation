@@ -1,0 +1,5 @@
+Flask
+selenium
+pytest
+requests
+pytest-html
